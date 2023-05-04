@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+.main{
+   text-align: center;
+   position: relative;
+   top: 100px;
+}
+.but{
+    padding: 13px;
+    margin: 8px;
+    border: 1px solid black;
+    border-radius: 6px;
+    font-family: 'Vina Sans', cursive , sans-serif;
+    border-radius: 50%;
+    width: 46px;
+    cursor: pointer;
+}
+
+.field{
+    background-color: transparent;
+    border: solid 2px black;
+    height: 27px;
+    width: 250px;
+    color: white;
+}
+
+h1{
+    font-style: oblique;
+    font-size: 62px;
+    font-family: 'Lobster', cursive;
+    color: white;
+
+}
+body{
+    background-color:#2F3538
+   
+}
+::placeholder{
+    color: white;
+}
+
+
+    
